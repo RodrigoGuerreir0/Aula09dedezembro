@@ -1,0 +1,11 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Visual Studio 2022\Aula dia 09 12\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
